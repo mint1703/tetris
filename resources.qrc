@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>0.png</file>
+        <file>1.png</file>
+        <file>del.png</file>
+        <file>gameOver.png</file>
+        <file>pause_exit_off.png</file>
+        <file>pause_exit_on.png</file>
+        <file>pause_fon.png</file>
+        <file>pause_restart_off.png</file>
+        <file>pause_restart_on.png</file>
+        <file>pause_resume_off.png</file>
+        <file>pause_resume_on.png</file>
+    </qresource>
+</RCC>
