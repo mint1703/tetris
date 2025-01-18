@@ -1,4 +1,4 @@
-<h1 align="center">Терис</h1>
+<h1 align="center">Тетрис</h1>
 
 ###
 
